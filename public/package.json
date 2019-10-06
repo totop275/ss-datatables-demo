@@ -1,0 +1,13 @@
+{
+  "name": "ss-datatables-demo",
+  "version": "1.0.0",
+  "description": "A demo app for ss-datatables",
+  "main": "index.js",
+  "repository": "https://github.com/totop275/ss-datatables-demo",
+  "author": "Toto Prasetyo <totop275@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "datatables.net-bs4": "^1.10.20"
+  }
+}
