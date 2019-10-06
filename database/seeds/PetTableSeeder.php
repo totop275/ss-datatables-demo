@@ -11,6 +11,6 @@ class PetTableSeeder extends Seeder
      */
     public function run()
     {
-        factory('App\Pet', 10)->create();
+        factory('App\Pet', 1000)->create();
     }
 }
