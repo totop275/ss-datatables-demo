@@ -2836,7 +2836,7 @@
         },
         {
             "name": "totop275/ss-datatables",
-            "version": "v1.0.2",
+            "version": "v1.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/totop275/ss-datatables.git",
