@@ -12,7 +12,7 @@
         "fideloper/proxy": "^4.0",
         "laravel/framework": "^6.0",
         "laravel/tinker": "^1.0",
-        "totop275/ss-datatables": "1.*"
+        "totop275/ss-datatables": "1.0.2"
     },
     "require-dev": {
         "facade/ignition": "^1.4",

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "cd730556b279d34be2f33d497797c10b",
+    "content-hash": "d9bce11690067b766265663d68182973",
     "packages": [
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -2836,16 +2836,16 @@
         },
         {
             "name": "totop275/ss-datatables",
-            "version": "v1.0.1",
+            "version": "v1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/totop275/ss-datatables.git",
-                "reference": "d63b6630d3b1dd5d61421f30cf31b41df0f9c8aa"
+                "reference": "0509a448c3cc0784b63503b9637c918ba903ce6b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/totop275/ss-datatables/zipball/d63b6630d3b1dd5d61421f30cf31b41df0f9c8aa",
-                "reference": "d63b6630d3b1dd5d61421f30cf31b41df0f9c8aa",
+                "url": "https://api.github.com/repos/totop275/ss-datatables/zipball/0509a448c3cc0784b63503b9637c918ba903ce6b",
+                "reference": "0509a448c3cc0784b63503b9637c918ba903ce6b",
                 "shasum": ""
             },
             "require": {
@@ -2869,7 +2869,7 @@
                 }
             ],
             "description": "A handler for datatables server side's request",
-            "time": "2019-10-03T17:39:07+00:00"
+            "time": "2019-10-06T23:16:42+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
