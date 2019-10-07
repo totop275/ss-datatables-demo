@@ -17,7 +17,7 @@ class Controller extends BaseController
 		$this->column=[ 
 			'alias' => ['owner_name'=>'users.name','pet_name'=>'pets.name','pet_type'=>'pets.type','birth_month'=>'month(birthday)','detail'=>'JSON_OBJECT("name",users.name,"birthday",birthday,"gender",gender,"pet_name",pets.name,"pet_type",pets.type,"register_date",users.created_at)','created_at'=>'users.created_at'],
 			'available' => ['owner_name','birthday','birth_month','gender','pet_name','pet_type','created_at','detail'],
-			'searchable' => ['owner_name','pet_name','birth_month'],
+			'searchable' => ['owner_name','gender','pet_name','birth_month','pet_type','birthday'],
 			'table' => ['pets'=>['users.id','=','pets.owner']]
 		];
 		$this->model=\App\User::class;
