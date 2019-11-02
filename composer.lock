@@ -2840,16 +2840,16 @@
         },
         {
             "name": "totop275/ss-datatables",
-            "version": "v1.1.2",
+            "version": "v1.1.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/totop275/ss-datatables.git",
-                "reference": "f8d408fe4cd78a43d5e9be49e781c181251ca5f2"
+                "reference": "ecc1d61e27731948151b7feed93b3102fca34b04"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/totop275/ss-datatables/zipball/f8d408fe4cd78a43d5e9be49e781c181251ca5f2",
-                "reference": "f8d408fe4cd78a43d5e9be49e781c181251ca5f2",
+                "url": "https://api.github.com/repos/totop275/ss-datatables/zipball/ecc1d61e27731948151b7feed93b3102fca34b04",
+                "reference": "ecc1d61e27731948151b7feed93b3102fca34b04",
                 "shasum": ""
             },
             "require": {
@@ -2873,7 +2873,7 @@
                 }
             ],
             "description": "A handler for datatables server side's request",
-            "time": "2019-11-02T03:01:09+00:00"
+            "time": "2019-11-02T05:11:37+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
