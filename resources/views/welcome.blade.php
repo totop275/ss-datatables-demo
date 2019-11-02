@@ -17,6 +17,7 @@
 			<div class="jumbotron">
 				<h1>Datatables demo</h1>
 				<p>A demo app for ss-datatables</p>
+				<p>Github: <a href="https://github.com/totop275/ss-datatables">ss-datatables</a> | <a href="https://github.com/totop275/ss-datatables-demo">ss-datatables-demo</a></p>
 			</div>
 			<br>
 			<div class="card" >
